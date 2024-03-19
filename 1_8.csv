@@ -1,0 +1,1615 @@
+,Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField
+0,51,No,,684.0,,6,3,
+1,52,No,,699.0,,1,4,life sciences
+2,42,No,travel_rarely,532.0, research & development ,4,2,technical degree
+3,47,No,travel_rarely,359.0,,2,4,medical
+4,46,No,,1319.0,,3,3,technical degree
+5,48,No,,117.0, research & development ,22,3,medical
+6,59,No,,1435.0,,25,3,life sciences
+7,42,No,travel_rarely,635.0,,1,1,
+8,41,No,,1276.0,,2,5,
+9,41,No,travel_frequently,840.0,,9,3,
+10,41,No,non-travel,247.0,,7,1,
+11,56,No,travel_rarely,1369.0,,23,3,life sciences
+12,38,No,,201.0,,10,3,medical
+13,41,Yes,travel_rarely,1360.0,,12,3,
+14,55,No,,692.0,,14,4,medical
+15,40,No,travel_rarely,1398.0,,2,4,
+16,58,Yes,travel_rarely,286.0,,2,4,
+17,46,No,travel_rarely,1402.0,,2,3,
+18,35,No,,819.0,,13,5,life sciences
+19,40,No,travel_rarely,884.0,,15,3,life sciences
+20,45,No,non-travel,1238.0, research & development ,1,1,
+21,33,No,,515.0,,1,2,life sciences
+22,36,No,,1223.0,,8,3,
+23,47,No,,202.0,,2,2,other
+24,36,No,travel_rarely,928.0,,42,2,life sciences
+25,35,No,,607.0,,9,3,life sciences
+26,52,Yes,,266.0,,2,1,
+27,36,No,,429.0,,2,4,life sciences
+28,33,No,travel_rarely,589.0,,28,4,life sciences
+29,34,No,non-travel,, sales ,10,3,life sciences
+30,41,No,,, sales ,37,1,
+31,47,No,,1180.0, research & development ,25,3,medical
+32,53,No,travel_rarely,1282.0,,5,3,
+33,35,No,,776.0,,1,4,marketing
+34,34,No,travel_rarely,665.0,,6,4,other
+35,46,No,travel_rarely,526.0,,1,2,
+36,43,No,,1034.0,,16,3,
+37,36,No,,1403.0, research & development ,6,3,life sciences
+38,60,No,travel_frequently,1499.0,,28,3,
+39,40,No,travel_frequently,580.0,,5,4,
+40,32,No,travel_rarely,859.0,,4,3,
+41,41,No,travel_rarely,263.0,,35,3,
+42,53,No,,1376.0,,2,2,medical
+43,36,Yes,travel_rarely,885.0,,16,4,
+44,46,No,,1003.0,,8,4,life sciences
+45,38,No,travel_rarely,1321.0,,1,4,
+46,51,No,,,,1,4,
+47,43,No,,394.0,,26,2,
+48,37,No,,1372.0,,1,3,life sciences
+49,32,No,travel_rarely,,,8,2,technical degree
+50,38,No,,1333.0,,1,3,
+51,46,No,,228.0,,3,3,life sciences
+52,35,Yes,travel_rarely,737.0,,10,3,medical
+53,43,No,,823.0,,6,3,medical
+54,56,No,non-travel,667.0,,1,4,life sciences
+55,36,No,non-travel,301.0,,15,4,marketing
+56,38,No,,573.0,,6,3,medical
+57,49,No,,,,26,4,medical
+58,39,No,travel_rarely,1329.0,,4,4,life sciences
+59,40,No,,630.0,,4,4,
+60,36,No,,,,5,2,
+61,37,No,,1063.0,,25,5,
+62,35,No,,1017.0,,6,4,
+63,33,No,travel_frequently,1296.0,,6,3,life sciences
+64,50,No,travel_rarely,939.0, research & development ,24,3,
+65,48,No,travel_rarely,1355.0,,4,4,
+66,44,No,travel_rarely,1448.0, sales ,28,3,
+67,44,No,travel_rarely,200.0,,29,4,
+68,40,No,,1202.0,,25,1,
+69,34,No,travel_rarely,404.0,,2,4,
+70,35,No,non-travel,208.0, research & development ,8,4,
+71,50,No,,813.0,,17,5,life sciences
+72,49,No,,465.0,,6,1,life sciences
+73,38,No,travel_frequently,1189.0,,1,3,life sciences
+74,33,No,,,,21,3,
+75,47,No,travel_rarely,1001.0,,4,3,life sciences
+76,38,No,,1394.0, research & development ,8,3,
+77,37,No,travel_rarely,161.0,,10,3,life sciences
+78,30,No,,288.0,,2,3,
+79,58,No,travel_rarely,682.0,,18,4,
+80,34,No,travel_rarely,1354.0,,5,3,
+81,58,Yes,travel_rarely,147.0,,23,4,medical
+82,38,No,,119.0,,3,3,life sciences
+83,29,No,travel_frequently,1413.0,,1,1,
+84,55,No,travel_rarely,452.0,,1,3,medical
+85,41,No,,334.0,,10,4,
+86,39,No,travel_rarely,1132.0, research & development ,1,3,
+87,38,No,,,,15,2,life sciences
+88,43,No,,982.0,,12,3,
+89,31,No,,480.0,,30,2,
+90,50,No,travel_rarely,1099.0, research & development ,27,4,life sciences
+91,35,No,,672.0,,25,3,technical degree
+92,47,No,,1379.0,,16,4,
+93,35,No,,583.0, research & development ,25,4,
+94,40,No,travel_rarely,1492.0,,20,4,
+95,45,No,,1050.0, sales ,9,4,life sciences
+96,33,No,,117.0, research & development ,9,3,medical
+97,36,No,travel_frequently,469.0,,3,3,
+98,45,Yes,,,,13,3,marketing
+99,51,No,travel_frequently,237.0,,27,3,
+100,34,No,travel_rarely,1440.0,,7,2,technical degree
+101,43,No,travel_rarely,1291.0, research & development ,15,2,
+102,34,No,,1157.0,,5,2,medical
+103,38,No,,1336.0,,2,3,
+104,48,No,,1224.0,,10,3,
+105,34,No,,735.0, research & development ,22,4,other
+106,32,No,travel_rarely,,,31,4,
+107,29,No,travel_rarely,1389.0,,21,4,life sciences
+108,46,No,,638.0,,1,3,medical
+109,30,No,,1240.0, human resources ,9,3,
+110,45,No,,194.0,,9,3,life sciences
+111,30,No,travel_rarely,1339.0,,5,3,
+112,30,No,,111.0,,9,3,
+113,34,No,travel_frequently,,,29,1,
+114,51,No,travel_rarely,1469.0,,8,4,life sciences
+115,34,No,,470.0,,39,4,life sciences
+116,35,No,travel_rarely,1232.0,,16,3,
+117,45,No,travel_frequently,1249.0,,7,3,life sciences
+118,39,No,,117.0,,10,1,
+119,31,No,,798.0,,7,2,
+120,39,No,,672.0, research & development ,7,2,
+121,45,No,travel_rarely,549.0,,8,4,
+122,30,No,travel_rarely,570.0, sales ,5,3,marketing
+123,31,No,,1232.0,,7,4,medical
+124,36,No,,541.0,,3,4,medical
+125,36,No,travel_rarely,164.0,,2,2,
+126,55,No,travel_rarely,1117.0,,18,5,
+127,35,No,,619.0,,1,3,
+128,42,No,travel_rarely,319.0,,24,3,medical
+129,52,No,travel_rarely,956.0,,6,2,
+130,49,No,,1245.0,,18,4,life sciences
+131,34,No,travel_rarely,1397.0, research & development ,1,5,
+132,33,Yes,travel_rarely,527.0,,1,4,other
+133,33,No,,213.0, research & development ,7,3,medical
+134,53,No,travel_rarely,,,23,4,
+135,49,No,travel_rarely,527.0,,8,2,other
+136,35,No,,882.0,,21,4,
+137,38,No,travel_rarely,330.0,,17,1,life sciences
+138,46,No,,406.0, sales ,3,1,marketing
+139,36,No,non-travel,217.0,,18,4,
+140,42,Yes,travel_frequently,481.0,,15,3,life sciences
+141,34,No,travel_frequently,669.0,,1,3,
+142,30,No,travel_rarely,1465.0, research & development ,1,3,medical
+143,54,No,travel_rarely,685.0,,3,3,life sciences
+144,31,No,travel_rarely,1062.0,,24,3,medical
+145,44,No,,1099.0,,5,3,
+146,55,No,non-travel,177.0,,8,1,
+147,44,No,travel_rarely,1199.0,,4,2,life sciences
+148,34,No,travel_frequently,648.0, human resources ,11,3,life sciences
+149,39,No,,412.0,,13,4,
+150,55,No,travel_rarely,282.0,,2,2,medical
+151,51,No,,770.0,,5,3,life sciences
+152,58,Yes,,601.0,,14,4,medical
+153,48,No,,855.0,,4,3,life sciences
+154,29,No,travel_rarely,332.0, human resources ,17,3,
+155,34,No,,1326.0,,3,3,other
+156,42,No,travel_frequently,748.0,,9,2,
+157,57,No,travel_rarely,405.0,,1,2,life sciences
+158,34,Yes,travel_rarely,790.0,,24,4,
+159,54,No,travel_frequently,1050.0,,11,4,medical
+160,34,No,travel_rarely,971.0,,1,3,
+161,29,No,,1370.0,,3,1,medical
+162,35,No,travel_rarely,750.0,,28,3,life sciences
+163,35,Yes,,880.0,,12,4,other
+164,34,No,travel_rarely,678.0,,19,3,life sciences
+165,43,No,,1179.0,,2,3,
+166,58,No,non-travel,350.0,,2,3,medical
+167,36,No,travel_rarely,1266.0, sales ,14,4,
+168,43,No,travel_rarely,574.0,,11,3,life sciences
+169,55,No,,189.0,,26,4,human resources
+170,42,No,,, research & development ,23,2,
+171,40,No,,692.0,,11,3,technical degree
+172,56,Yes,,310.0, research & development ,7,2,technical degree
+173,39,No,travel_rarely,722.0,,33,1,marketing
+174,53,No,travel_rarely,1219.0,,2,4,life sciences
+175,27,No,travel_frequently,994.0,,8,3,
+176,30,No,travel_frequently,721.0,,1,2,
+177,35,No,,853.0,,18,5,life sciences
+178,32,No,travel_rarely,427.0, research & development ,1,3,medical
+179,30,No,travel_rarely,852.0,,1,1,life sciences
+180,46,Yes,,669.0, sales ,9,2,medical
+181,30,No,travel_rarely,1334.0,,4,2,
+182,32,No,,1093.0,,6,4,
+183,35,No,travel_rarely,,,37,5,marketing
+184,32,No,,967.0,,8,3,marketing
+185,41,No,travel_rarely,465.0, research & development ,34,3,life sciences
+186,40,No,travel_rarely,989.0,,4,1,medical
+187,45,No,,1195.0,,2,2,
+188,32,Yes,travel_rarely,1045.0,,4,4,
+189,30,No,non-travel,829.0, research & development ,1,1,life sciences
+190,37,No,,663.0,,11,3,
+191,37,No,,319.0,,4,4,
+192,40,No,,1300.0,,24,2,technical degree
+193,36,No,non-travel,1105.0,,24,4,
+194,32,No,travel_rarely,906.0,,7,3,life sciences
+195,38,No,,849.0,,25,2,life sciences
+196,30,No,travel_rarely,1275.0,,28,2,
+197,39,No,,1218.0,,1,1,
+198,60,No,,422.0,,7,3,life sciences
+199,30,No,,1398.0,,22,4,other
+200,31,No,travel_rarely,1274.0, research & development ,9,1,
+201,33,Yes,,1076.0,,3,3,life sciences
+202,50,No,,1207.0,,28,1,medical
+203,32,No,,430.0, research & development ,24,4,life sciences
+204,42,No,,933.0,,29,3,
+205,49,Yes,,1184.0, sales ,11,3,marketing
+206,27,No,,,,5,1,
+207,33,No,travel_rarely,586.0,,1,3,medical
+208,52,No,,890.0, research & development ,26,4,
+209,32,No,,379.0,,5,2,life sciences
+210,36,No,,1425.0,,14,1,life sciences
+211,31,No,non-travel,1188.0, sales ,20,2,
+212,36,No,travel_rarely,938.0,,2,4,medical
+213,52,No,,1053.0,,1,2,life sciences
+214,33,No,non-travel,722.0,,17,3,
+215,45,No,non-travel,248.0,,23,2,life sciences
+216,36,No,travel_rarely,796.0, research & development ,12,5,
+217,49,No,,174.0,,8,4,
+218,29,Yes,,408.0,,23,1,
+219,29,No,,,,6,1,
+220,37,No,,977.0, research & development ,1,3,life sciences
+221,33,No,travel_rarely,536.0,,10,5,
+222,34,No,travel_frequently,135.0,,19,3,medical
+223,28,No,non-travel,1476.0,,1,3,
+224,31,No,non-travel,587.0,,2,4,
+225,42,No,non-travel,495.0,,2,1,life sciences
+226,40,No,travel_rarely,523.0,,2,3,life sciences
+227,34,No,,507.0,,15,2,medical
+228,58,No,travel_rarely,1055.0,,1,3,
+229,31,Yes,travel_frequently,1445.0,,1,5,
+230,40,No,non-travel,218.0,,8,1,
+231,53,No,,447.0,,2,3,medical
+232,34,No,,829.0, research & development ,15,3,
+233,35,No,travel_rarely,1029.0,,16,3,life sciences
+234,37,No,,674.0,,13,3,
+235,42,No,travel_frequently,,,2,3,
+236,45,No,,538.0,,1,4,
+237,30,Yes,travel_rarely,740.0,,1,3,
+238,38,No,travel_rarely,1245.0,,14,3,life sciences
+239,50,No,,1234.0,,20,5,medical
+240,39,No,travel_rarely,170.0,,3,2,
+241,34,No,travel_rarely,1130.0,,3,3,
+242,54,No,travel_rarely,584.0, research & development ,22,5,
+243,41,No,travel_rarely,918.0,,6,3,marketing
+244,39,No,,792.0,,1,3,life sciences
+245,40,No,travel_rarely,611.0,,7,4,
+246,33,No,,,,4,3,technical degree
+247,36,No,,1383.0,,10,3,life sciences
+248,33,No,,867.0,,8,4,life sciences
+249,34,No,travel_rarely,,,8,2,
+250,29,No,travel_frequently,574.0, research & development ,46,1,medical
+251,46,No,travel_rarely,706.0,,2,2,life sciences
+252,27,No,travel_rarely,728.0,,23,1,medical
+253,31,No,,311.0,,36,3,life sciences
+254,45,No,travel_rarely,556.0, research & development ,25,2,life sciences
+255,34,No,travel_rarely,937.0,,1,3,marketing
+256,31,No,,1125.0, research & development ,1,3,life sciences
+257,35,No,,1224.0,,7,4,
+258,39,No,travel_rarely,119.0,,15,4,marketing
+259,40,No,travel_rarely,444.0,,2,2,marketing
+260,30,No,travel_rarely,911.0,,1,2,medical
+261,47,No,,, research & development ,1,1,
+262,52,No,non-travel,585.0,,29,4,
+263,49,No,travel_frequently,,,8,1,
+264,33,No,travel_frequently,1392.0,,19,4,life sciences
+265,32,No,,1005.0,,2,2,life sciences
+266,38,No,travel_frequently,, research & development ,23,3,
+267,36,No,travel_rarely,1299.0, research & development ,27,3,medical
+268,42,No,,,,8,4,
+269,31,No,,655.0, research & development ,7,4,life sciences
+270,31,No,travel_rarely,746.0,,8,4,
+271,51,No,,632.0,,21,4,marketing
+272,34,Yes,travel_frequently,658.0,,7,3,
+273,36,No,,1467.0,,11,2,technical degree
+274,30,No,travel_frequently,1312.0,,23,3,
+275,33,No,non-travel,750.0,,12,2,
+276,31,Yes,,249.0,,6,4,life sciences
+277,41,No,travel_rarely,802.0,,23,1,
+278,26,No,travel_rarely,1355.0,,25,1,
+279,32,No,,689.0,,9,2,
+280,40,No,travel_frequently,1395.0,,26,3,
+281,53,No,travel_rarely,1436.0, sales ,6,2,marketing
+282,29,No,non-travel,1496.0, research & development ,1,1,technical degree
+283,36,No,travel_frequently,1480.0, research & development ,3,2,
+284,33,No,travel_rarely,, research & development ,14,3,
+285,51,No,travel_rarely,313.0,,3,3,
+286,27,No,travel_rarely,894.0,,9,3,medical
+287,37,No,,290.0,,21,3,life sciences
+288,38,No,,1084.0,,29,3,
+289,49,No,non-travel,1002.0,,18,4,
+290,27,No,,1242.0,,20,3,life sciences
+291,45,No,,1052.0, sales ,6,3,medical
+292,35,No,,944.0,,1,3,
+293,33,Yes,travel_rarely,465.0,,2,2,
+294,52,No,,771.0,,2,4,life sciences
+295,40,No,,1416.0, research & development ,2,2,medical
+296,38,No,non-travel,1327.0, sales ,2,2,life sciences
+297,46,No,,488.0,,27,3,
+298,45,No,travel_rarely,1385.0,,20,2,medical
+299,47,Yes,non-travel,666.0,,10,4,life sciences
+300,35,No,,1315.0,,22,3,life sciences
+301,29,No,travel_frequently,442.0,,2,2,
+302,55,No,travel_rarely,147.0, research & development ,20,2,technical degree
+303,26,Yes,travel_rarely,950.0,,45,4,
+304,31,No,travel_rarely,218.0,,7,3,technical degree
+305,43,No,travel_frequently,,,10,4,life sciences
+306,31,No,travel_rarely,691.0,,13,3,marketing
+307,32,No,,1018.0,,2,4,medical
+308,33,No,,,,10,3,
+309,43,No,travel_frequently,559.0, research & development ,10,4,life sciences
+310,29,Yes,travel_rarely,318.0,,8,4,
+311,27,No,,1130.0, sales ,8,4,
+312,29,No,travel_rarely,144.0,,10,1,
+313,37,No,,1319.0,,6,3,medical
+314,26,No,travel_rarely,933.0,,1,3,
+315,40,No,travel_rarely,1171.0,,10,4,life sciences
+316,41,Yes,,143.0,,4,3,
+317,51,No,travel_rarely,1178.0,,14,2,
+318,37,No,,1107.0,,14,3,
+319,56,No,,906.0,,6,3,life sciences
+320,41,No,travel_rarely,645.0, sales ,1,3,marketing
+321,46,No,,1485.0,,18,3,medical
+322,30,No,non-travel,1116.0,,2,3,
+323,35,No,travel_rarely,1276.0,,16,3,life sciences
+324,48,No,travel_rarely,163.0,,2,5,
+325,45,No,travel_rarely,561.0,,2,3,other
+326,26,Yes,travel_frequently,426.0,,17,4,life sciences
+327,41,No,,509.0,,2,4,other
+328,34,No,,258.0,,21,4,
+329,31,No,travel_rarely,525.0,,6,4,medical
+330,43,No,travel_frequently,,,9,5,
+331,53,No,,238.0, sales ,1,1,
+332,37,No,travel_rarely,482.0,,3,3,other
+333,54,No,,397.0,,19,4,
+334,38,No,travel_rarely,243.0, sales ,7,4,marketing
+335,29,No,,806.0, research & development ,1,4,life sciences
+336,34,No,,1442.0,,9,3,medical
+337,39,No,,408.0,,2,4,technical degree
+338,32,No,,929.0,,10,3,marketing
+339,38,No,travel_rarely,827.0,,1,4,life sciences
+340,27,No,travel_rarely,,,1,2,life sciences
+341,32,No,travel_rarely,1018.0,,3,2,life sciences
+342,47,No,,703.0,,35,4,marketing
+343,27,No,travel_frequently,294.0,,10,2,
+344,41,No,,314.0,,1,3,
+345,28,Yes,,654.0, research & development ,35,2,
+346,36,No,,427.0, research & development ,8,3,
+347,30,No,,501.0,,27,5,marketing
+348,56,No,travel_rarely,,,9,3,
+349,45,No,travel_rarely,954.0,,2,2,
+350,36,No,non-travel,1434.0,,8,4,
+351,29,No,,657.0,,27,3,medical
+352,38,No,,240.0,,2,4,life sciences
+353,40,No,,791.0,,13,2,medical
+354,42,No,travel_frequently,570.0,,8,3,
+355,36,No,travel_rarely,676.0,,1,3,other
+356,29,No,travel_rarely,,,23,2,
+357,55,Yes,,436.0,,2,1,medical
+358,28,No,,760.0, sales ,2,4,
+359,26,Yes,,,,5,2,medical
+360,44,No,,661.0,,9,2,
+361,41,Yes,,1085.0, research & development ,2,4,life sciences
+362,31,No,travel_rarely,154.0,,7,4,
+363,26,No,travel_frequently,1283.0, sales ,28,3,medical
+364,31,No,,616.0,,12,3,medical
+365,32,No,,498.0,,3,4,medical
+366,36,Yes,travel_rarely,530.0,,3,1,life sciences
+367,45,No,non-travel,805.0,,47,2,
+368,39,No,travel_rarely,903.0,,2,5,
+369,36,No,non-travel,1229.0,,8,4,technical degree
+370,46,No,,566.0,,7,2,medical
+371,54,No,travel_rarely,1441.0,,17,3,technical degree
+372,30,No,travel_rarely,153.0,,8,2,
+373,26,No,,1066.0,,2,2,medical
+374,55,No,travel_frequently,135.0,,18,4,medical
+375,50,No,non-travel,145.0, sales ,1,3,life sciences
+376,32,No,non-travel,1109.0,,29,4,
+377,53,No,travel_frequently,124.0,,2,3,marketing
+378,40,No,travel_rarely,300.0,,26,3,
+379,55,No,,444.0,,2,1,
+380,28,Yes,non-travel,1366.0,,24,2,
+381,28,No,travel_rarely,857.0,,10,3,other
+382,35,Yes,,1204.0,,4,3,technical degree
+383,33,Yes,travel_frequently,827.0, research & development ,36,4,medical
+384,25,Yes,,1219.0, research & development ,4,1,technical degree
+385,38,No,,770.0, sales ,10,4,
+386,28,No,,950.0,,12,3,
+387,43,No,travel_frequently,1082.0,,27,3,life sciences
+388,39,Yes,travel_frequently,203.0, research & development ,2,3,life sciences
+389,40,No,travel_rarely,1308.0,,14,3,
+390,29,No,travel_rarely,718.0,,8,1,medical
+391,40,No,,593.0,,32,4,
+392,26,No,travel_rarely,1384.0,,3,4,
+393,35,No,travel_rarely,819.0,,2,3,
+394,53,No,,1223.0, research & development ,7,2,medical
+395,35,No,,1361.0,,17,4,life sciences
+396,33,No,,1146.0,,25,3,medical
+397,36,No,,, research & development ,6,4,life sciences
+398,30,No,travel_rarely,853.0,,7,4,life sciences
+399,60,No,,,,29,4,
+400,32,No,,1316.0,,2,2,life sciences
+401,36,No,,363.0,,1,3,technical degree
+402,27,No,travel_rarely,1103.0,,14,3,
+403,43,No,,920.0, research & development ,3,3,life sciences
+404,29,No,travel_rarely,694.0,,1,3,
+405,59,No,,1429.0,,24,4,
+406,43,No,travel_rarely,531.0,,4,4,marketing
+407,44,Yes,travel_rarely,621.0,,15,3,medical
+408,29,Yes,,806.0, research & development ,7,3,technical degree
+409,32,No,travel_rarely,604.0,,8,3,
+410,36,No,travel_rarely,325.0,,10,4,technical degree
+411,52,Yes,,1030.0, sales ,5,3,
+412,39,No,travel_rarely,524.0,,33,2,
+413,34,No,,943.0,,9,3,
+414,38,No,,1009.0,,2,2,life sciences
+415,36,No,travel_frequently,607.0, sales ,12,3,marketing
+416,35,No,,817.0,,1,3,
+417,55,Yes,,,,13,4,
+418,34,No,,,,29,3,
+419,43,No,,930.0,,6,3,medical
+420,42,No,travel_rarely,1147.0,,10,3,human resources
+421,26,No,travel_rarely,652.0,,7,3,
+422,29,Yes,,337.0,,14,1,other
+423,54,No,,971.0, research & development ,1,3,
+424,55,No,,1136.0,,1,4,
+425,40,No,non-travel,663.0,,9,4,other
+426,31,No,,326.0,,8,2,
+427,46,Yes,,377.0,,9,3,marketing
+428,45,No,travel_rarely,1038.0,,20,3,medical
+429,49,No,travel_rarely,1490.0,,7,4,life sciences
+430,29,No,travel_rarely,1246.0,,19,3,
+431,29,Yes,,224.0,,1,4,technical degree
+432,29,No,,441.0,,8,1,other
+433,40,No,travel_rarely,898.0, human resources ,6,2,
+434,48,No,,, sales ,16,4,life sciences
+435,53,Yes,,607.0,,2,5,
+436,44,No,,1313.0,,7,3,medical
+437,45,No,,1015.0,,5,5,
+438,45,No,non-travel,,,26,3,marketing
+439,34,No,travel_frequently,426.0,,10,4,
+440,39,No,,1387.0, research & development ,10,5,medical
+441,27,No,,1302.0, research & development ,36,3,
+442,45,No,travel_rarely,1329.0,,2,2,
+443,44,No,,602.0,,1,5,
+444,25,No,,772.0,,2,1,life sciences
+445,49,No,,809.0,,1,3,
+446,48,Yes,travel_frequently,,,7,2,
+447,26,No,,786.0,,7,3,medical
+448,44,No,travel_rarely,921.0,,2,3,life sciences
+449,36,No,,530.0,,2,4,
+450,46,No,,717.0, research & development ,13,4,
+451,35,No,,1370.0,,27,4,life sciences
+452,30,No,travel_frequently,1312.0,,2,4,
+453,30,No,,979.0,,15,2,marketing
+454,33,No,non-travel,1283.0,,2,3,marketing
+455,32,No,,953.0,,5,4,
+456,43,No,travel_rarely,244.0,,2,3,life sciences
+457,31,No,travel_rarely,196.0,,29,4,marketing
+458,35,Yes,,303.0,,27,3,
+459,35,No,non-travel,1180.0, research & development ,2,2,medical
+460,30,No,,1092.0,,10,3,medical
+461,46,Yes,travel_rarely,261.0,,19,2,medical
+462,45,No,non-travel,589.0,,2,4,
+463,43,No,travel_frequently,1422.0,,2,4,life sciences
+464,46,Yes,,,,10,3,life sciences
+465,40,No,travel_rarely,1137.0, research & development ,1,4,
+466,27,No,travel_rarely,511.0, sales ,2,2,
+467,42,No,,1396.0,,6,3,medical
+468,26,No,travel_frequently,1096.0,,6,3,other
+469,28,No,travel_frequently,,,1,2,life sciences
+470,47,No,,1169.0,,14,4,
+471,34,No,travel_rarely,1239.0,,13,4,medical
+472,26,No,,157.0, research & development ,1,3,medical
+473,27,No,travel_rarely,954.0,,9,3,
+474,31,Yes,travel_frequently,754.0, sales ,26,4,marketing
+475,33,No,travel_frequently,1303.0,,7,2,life sciences
+476,31,No,,697.0,,10,3,
+477,35,No,,1395.0,,9,4,medical
+478,33,No,travel_rarely,501.0,,15,2,
+479,39,No,travel_rarely,116.0,,24,1,life sciences
+480,36,No,travel_rarely,557.0,,46,3,
+481,41,No,travel_rarely,582.0,,28,4,life sciences
+482,34,No,,704.0, sales ,28,3,marketing
+483,38,No,travel_rarely,,,10,2,
+484,39,No,travel_rarely,613.0,,6,1,
+485,34,No,travel_rarely,419.0,,7,4,
+486,44,No,travel_rarely,477.0,,7,4,medical
+487,46,No,,1211.0,,5,4,
+488,41,No,travel_frequently,857.0, research & development ,10,3,life sciences
+489,39,No,,505.0, research & development ,2,4,
+490,42,No,travel_rarely,269.0,,2,3,medical
+491,33,No,travel_frequently,553.0, research & development ,5,4,
+492,35,No,travel_rarely,1296.0,,5,4,technical degree
+493,33,Yes,travel_rarely,1277.0,,15,1,medical
+494,40,No,travel_rarely,302.0,,6,3,life sciences
+495,41,No,travel_rarely,427.0,,10,4,human resources
+496,27,No,,975.0,,7,3,
+497,52,No,travel_rarely,621.0,,3,4,marketing
+498,51,No,travel_rarely,1318.0,,26,4,marketing
+499,47,No,travel_rarely,249.0,,2,2,marketing
+500,50,No,non-travel,881.0, research & development ,2,4,
+501,35,No,travel_rarely,1137.0, research & development ,21,1,life sciences
+502,39,No,travel_rarely,466.0,,1,1,
+503,39,No,travel_frequently,945.0,,22,3,medical
+504,41,No,,509.0,,7,2,
+505,44,Yes,,1376.0, human resources ,1,2,medical
+506,42,No,,469.0,,2,2,medical
+507,52,No,travel_rarely,994.0,,7,4,life sciences
+508,38,No,,433.0,,1,3,
+509,46,No,,991.0, human resources ,1,2,life sciences
+510,35,No,,482.0,,4,4,life sciences
+511,28,No,travel_rarely,1083.0, research & development ,29,1,life sciences
+512,44,No,,136.0,,28,3,life sciences
+513,50,No,,333.0,,22,5,
+514,55,No,travel_rarely,685.0,,23,5,marketing
+515,39,No,,1462.0, sales ,6,3,
+516,49,No,,722.0, research & development ,13,4,
+517,45,No,,,,28,2,technical degree
+518,46,No,,1277.0,,2,3,
+519,27,No,,1131.0,,15,3,
+520,42,No,travel_rarely,300.0,,2,3,
+521,49,No,,1023.0, sales ,2,3,
+522,29,No,travel_rarely,153.0,,15,2,life sciences
+523,34,No,non-travel,1065.0,,12,4,marketing
+524,37,No,,1115.0,,1,4,
+525,36,No,,1195.0,,11,3,
+526,45,No,,1316.0,,29,3,
+527,29,No,travel_rarely,665.0,,15,3,
+528,26,No,,1479.0,,1,3,
+529,28,No,,304.0,,9,4,life sciences
+530,42,No,travel_frequently,1368.0,,30,4,technical degree
+531,31,No,travel_rarely,828.0, sales ,2,1,life sciences
+532,37,No,travel_rarely,799.0,,47,3,
+533,37,No,non-travel,142.0,,9,4,
+534,37,No,travel_rarely,446.0,,1,4,life sciences
+535,24,No,travel_rarely,691.0,,23,3,medical
+536,50,No,,1246.0,,3,3,
+537,34,No,,254.0,,1,2,life sciences
+538,27,No,travel_frequently,1410.0,,3,1,medical
+539,25,No,,883.0, sales ,42,1,
+540,34,No,,304.0, sales ,25,3,other
+541,34,No,,121.0, research & development ,2,4,
+542,35,No,,950.0,,7,3,other
+543,35,No,,1343.0,,16,1,medical
+544,33,No,,827.0, research & development ,1,4,
+545,29,No,,1107.0,,28,4,life sciences
+546,29,No,travel_frequently,490.0, research & development ,10,3,
+547,34,No,,1400.0,,9,1,life sciences
+548,28,No,travel_rarely,1179.0,,19,4,medical
+549,44,No,,1117.0,,2,1,life sciences
+550,31,No,travel_rarely,1332.0, research & development ,11,2,
+551,26,No,,583.0, research & development ,4,2,life sciences
+552,47,No,travel_rarely,465.0,,1,3,
+553,37,No,,1413.0, research & development ,5,2,
+554,32,No,,1200.0,,1,4,
+555,32,No,,977.0,,2,3,medical
+556,33,No,non-travel,530.0,,16,3,life sciences
+557,47,Yes,,1093.0, sales ,9,3,
+558,41,Yes,,1102.0,,1,2,
+559,35,No,travel_rarely,809.0, research & development ,16,3,medical
+560,29,No,travel_rarely,1328.0,,2,3,life sciences
+561,32,No,travel_rarely,548.0,,1,3,life sciences
+562,35,No,travel_rarely,1214.0,,1,3,medical
+563,56,No,,,,13,3,
+564,28,No,,120.0,,4,3,medical
+565,25,Yes,travel_rarely,240.0,,5,3,
+566,56,Yes,,441.0,,14,4,life sciences
+567,26,No,,841.0, research & development ,6,3,
+568,32,Yes,,1033.0,,9,3,medical
+569,30,No,travel_rarely,,,18,3,life sciences
+570,50,No,travel_rarely,1452.0,,11,3,
+571,32,No,,120.0,,6,5,life sciences
+572,45,No,travel_rarely,1268.0,,4,2,
+573,43,No,,,,7,3,
+574,29,Yes,,121.0,,27,3,marketing
+575,31,No,non-travel,, research & development ,1,4,medical
+576,33,Yes,,813.0,,14,3,
+577,31,Yes,,307.0,,29,2,
+578,37,No,,228.0,,6,4,
+579,50,No,,797.0, research & development ,4,1,
+580,42,No,travel_frequently,555.0,,26,3,
+581,27,No,,1377.0,,2,3,
+582,27,No,non-travel,210.0,,1,1,marketing
+583,41,No,travel_rarely,483.0,,6,3,
+584,37,No,travel_rarely,921.0,,10,3,medical
+585,40,Yes,,575.0,,22,2,
+586,55,No,,1311.0,,2,3,
+587,26,Yes,travel_frequently,575.0,,3,1,
+588,40,No,travel_rarely,759.0,,2,2,marketing
+589,25,No,,891.0, sales ,4,2,
+590,30,No,,1082.0,,12,3,
+591,52,No,travel_rarely,319.0,,32,3,
+592,42,No,travel_frequently,532.0,,12,2,
+593,30,No,travel_rarely,317.0,,2,3,life sciences
+594,35,No,travel_rarely,144.0,,22,3,life sciences
+595,31,No,travel_rarely,688.0,,7,3,
+596,35,No,travel_rarely,195.0, sales ,1,3,
+597,25,No,,622.0,,13,1,
+598,32,No,travel_rarely,646.0,,9,4,
+599,47,Yes,,719.0,,27,2,life sciences
+600,30,No,travel_frequently,1012.0,,5,4,life sciences
+601,45,No,,930.0,,9,3,marketing
+602,36,No,travel_rarely,1278.0,,8,3,life sciences
+603,31,No,,1222.0,,11,4,
+604,37,No,travel_frequently,1231.0,,21,2,medical
+605,39,No,travel_rarely,1383.0,,2,3,life sciences
+606,42,No,,462.0,,14,2,
+607,30,No,travel_rarely,231.0,,8,2,
+608,50,No,,,,1,2,medical
+609,59,No,travel_rarely,1089.0, sales ,1,2,
+610,54,No,,1082.0,,2,4,life sciences
+611,56,No,,1240.0,,9,3,medical
+612,48,No,,1262.0,,1,4,
+613,39,No,,439.0, research & development ,9,3,life sciences
+614,35,No,travel_rarely,528.0,,8,4,technical degree
+615,42,No,travel_rarely,647.0, sales ,4,4,marketing
+616,44,Yes,,1097.0,,10,4,
+617,29,No,travel_rarely,942.0,,15,1,
+618,33,No,,147.0,,2,3,human resources
+619,54,No,travel_frequently,966.0,,1,4,
+620,46,No,,168.0, sales ,4,2,
+621,30,No,non-travel,,,9,2,medical
+622,32,Yes,travel_rarely,1089.0,,7,2,life sciences
+623,40,Yes,,299.0,,25,4,
+624,34,No,non-travel,999.0,,26,1,
+625,39,No,travel_rarely,1498.0, sales ,21,4,
+626,37,No,,1439.0,,4,1,
+627,33,No,,1111.0, sales ,41,1,life sciences
+628,39,No,non-travel,1485.0, research & development ,25,2,
+629,52,No,travel_rarely,258.0,,8,4,other
+630,36,No,,1174.0,,3,4,
+631,36,No,,172.0,,47,4,life sciences
+632,24,No,travel_rarely,,,4,1,
+633,34,No,travel_rarely,401.0,,1,3,life sciences
+634,28,No,,866.0, sales ,5,3,
+635,33,No,travel_rarely,1099.0, research & development ,4,4,medical
+636,47,No,travel_rarely,571.0,,14,3,medical
+637,40,Yes,,676.0,,9,4,life sciences
+638,45,No,travel_rarely,950.0,,49,3,technical degree
+639,40,No,travel_rarely,1342.0,,9,2,
+640,29,No,,995.0,,2,1,life sciences
+641,40,No,,118.0,,14,2,life sciences
+642,43,No,,990.0,,27,3,
+643,30,No,,241.0,,7,3,
+644,38,No,,, research & development ,2,2,
+645,37,No,travel_rarely,1470.0, research & development ,10,3,
+646,39,No,travel_rarely,492.0,,12,3,medical
+647,36,No,travel_rarely,1040.0, research & development ,11,2,life sciences
+648,23,Yes,travel_rarely,1320.0,,8,1,medical
+649,35,No,,146.0,,2,4,
+650,31,No,travel_frequently,163.0,,24,1,technical degree
+651,38,No,travel_rarely,1153.0, research & development ,6,2,other
+652,35,No,,185.0,,23,4,medical
+653,40,No,,750.0,,12,3,
+654,27,No,travel_frequently,1297.0, research & development ,48,2,
+655,41,No,,337.0,,8,3,
+656,33,No,travel_rarely,217.0,,15,4,marketing
+657,49,No,,1064.0,,2,1,life sciences
+658,36,No,non-travel,1351.0,,9,4,
+659,41,No,,930.0,,3,3,life sciences
+660,29,No,,468.0,,41,4,medical
+661,31,No,non-travel,,,5,3,medical
+662,36,Yes,travel_rarely,1218.0,,9,4,life sciences
+663,43,No,travel_rarely,1273.0,,2,2,medical
+664,33,No,travel_frequently,1141.0,,18,3,life sciences
+665,44,No,,1488.0, sales ,1,5,marketing
+666,38,No,,653.0,,29,5,life sciences
+667,50,No,,989.0,,7,2,medical
+668,59,No,travel_frequently,1225.0,,1,1,
+669,40,No,travel_frequently,530.0,,1,4,life sciences
+670,54,No,travel_rarely,1217.0,,2,4,technical degree
+671,50,No,,,,47,3,
+672,54,No,non-travel,142.0,,26,3,
+673,24,No,,1127.0,,18,1,life sciences
+674,37,No,travel_rarely,1189.0,,3,3,life sciences
+675,30,No,travel_rarely,1427.0,,2,1,
+676,34,No,travel_frequently,303.0,,10,4,
+677,57,No,travel_rarely,334.0, research & development ,24,2,
+678,38,No,travel_rarely,702.0,,1,4,life sciences
+679,41,Yes,travel_rarely,,,20,2,marketing
+680,42,No,,926.0,,21,2,
+681,34,No,,878.0,,10,4,
+682,30,Yes,,334.0,,26,4,
+683,29,Yes,travel_rarely,896.0,,13,1,medical
+684,32,No,,1401.0,,4,2,
+685,25,No,,675.0,,5,2,life sciences
+686,53,No,,1070.0,,3,4,
+687,26,No,,496.0, research & development ,11,2,medical
+688,28,No,,1117.0,,8,2,
+689,28,No,travel_rarely,1476.0,,16,2,medical
+690,58,No,,390.0, research & development ,1,4,life sciences
+691,27,No,travel_rarely,1220.0,,5,3,
+692,54,No,travel_frequently,928.0,,20,4,life sciences
+693,40,No,travel_rarely,1124.0,,45,2,
+694,29,No,non-travel,746.0,,2,3,life sciences
+695,50,No,travel_rarely,1046.0,,10,3,
+696,24,Yes,travel_rarely,1448.0,,1,1,technical degree
+697,30,No,,1400.0, research & development ,37,3,
+698,34,No,,1303.0,,2,4,
+699,33,Yes,travel_rarely,587.0,,10,1,
+700,36,No,non-travel,635.0,,30,4,medical
+701,41,No,non-travel,267.0, sales ,10,2,
+702,39,No,travel_frequently,443.0,,8,1,
+703,26,No,travel_rarely,703.0,,28,2,marketing
+704,24,Yes,travel_frequently,1287.0, research & development ,7,3,
+705,27,No,,798.0, research & development ,6,4,
+706,27,Yes,travel_rarely,1420.0,,2,1,marketing
+707,50,Yes,,562.0, sales ,8,2,technical degree
+708,23,No,travel_rarely,650.0,,49,1,
+709,39,No,travel_rarely,141.0,,24,3,
+710,52,No,non-travel,715.0,,19,4,medical
+711,26,Yes,,,,8,3,
+712,54,No,,376.0,,19,4,
+713,37,No,travel_rarely,571.0,,10,1,life sciences
+714,50,No,travel_rarely,691.0, research & development ,2,3,
+715,42,No,,932.0,,1,2,life sciences
+716,38,No,travel_frequently,471.0, research & development ,12,3,
+717,25,No,travel_rarely,180.0,,2,1,medical
+718,32,No,,638.0,,8,2,
+719,25,No,,141.0,,3,1,
+720,42,No,,1265.0,,3,3,
+721,33,No,,1075.0,,3,2,human resources
+722,29,No,travel_rarely,1086.0,,7,1,medical
+723,38,No,non-travel,152.0,,10,3,
+724,45,No,travel_rarely,974.0, research & development ,1,4,
+725,31,No,travel_frequently,853.0,,1,1,
+726,22,No,,217.0, research & development ,8,1,life sciences
+727,59,No,travel_rarely,715.0,,2,3,
+728,45,No,,1234.0, sales ,11,2,
+729,45,No,travel_rarely,788.0,,24,4,
+730,37,No,travel_rarely,124.0,,3,3,
+731,26,No,,921.0,,26,1,medical
+732,26,No,,192.0,,1,2,medical
+733,28,No,,,,42,1,
+734,24,No,,477.0,,24,3,medical
+735,30,No,travel_rarely,852.0,,10,3,marketing
+736,43,Yes,,1372.0,,9,3,
+737,30,No,travel_rarely,1329.0,,29,4,life sciences
+738,46,No,travel_rarely,150.0,,2,4,technical degree
+739,42,No,non-travel,, human resources ,2,5,
+740,25,No,,,,10,4,life sciences
+741,27,No,,1167.0,,4,2,
+742,56,No,travel_rarely,206.0,,8,4,life sciences
+743,41,No,travel_frequently,, sales ,1,3,marketing
+744,28,No,,736.0,,26,3,life sciences
+745,52,No,travel_frequently,322.0,,28,2,
+746,26,No,travel_rarely,683.0,,2,1,medical
+747,49,Yes,travel_frequently,1475.0,,28,2,
+748,34,No,travel_frequently,560.0,,1,4,other
+749,32,No,,,,7,5,marketing
+750,33,No,,,,7,3,medical
+751,29,Yes,,115.0, sales ,13,3,
+752,30,No,,,,16,3,life sciences
+753,23,No,,507.0, research & development ,11,1,life sciences
+754,33,No,,575.0,,25,3,
+755,35,No,,,,28,4,
+756,38,No,travel_frequently,888.0,,10,4,
+757,28,No,,580.0,,27,3,
+758,37,No,,671.0,,19,3,life sciences
+759,24,No,,567.0, research & development ,2,1,technical degree
+760,36,No,,311.0,,7,3,
+761,38,No,travel_frequently,148.0,,2,3,
+762,53,No,travel_rarely,1395.0,,24,4,medical
+763,37,No,travel_frequently,1278.0,,1,4,
+764,24,No,,581.0, research & development ,12,3,medical
+765,29,No,travel_rarely,1082.0,,9,4,medical
+766,32,No,travel_rarely,371.0,,19,3,
+767,42,No,travel_rarely,855.0,,12,3,medical
+768,41,No,,548.0,,9,4,life sciences
+769,44,Yes,,429.0,,1,2,
+770,28,No,travel_rarely,1181.0,,1,3,
+771,39,No,,1253.0, research & development ,10,1,medical
+772,40,No,,616.0,,2,2,life sciences
+773,37,Yes,travel_rarely,370.0,,10,4,
+774,40,No,,1194.0,,1,3,
+775,26,No,travel_rarely,572.0, sales ,10,3,
+776,42,No,,355.0,,10,4,technical degree
+777,34,No,travel_rarely,1480.0,,4,3,
+778,37,No,travel_rarely,783.0,,7,4,medical
+779,27,No,,1354.0,,2,4,technical degree
+780,35,No,travel_rarely,682.0,,18,4,
+781,28,No,non-travel,1103.0,,16,3,medical
+782,29,No,,136.0,,1,3,life sciences
+783,54,No,,155.0, research & development ,9,2,
+784,24,No,travel_rarely,771.0,,41,2,life sciences
+785,38,No,travel_frequently,508.0,,6,4,
+786,42,No,,557.0,,18,4,
+787,41,No,,642.0,,1,3,life sciences
+788,25,No,travel_rarely,1382.0,,8,2,
+789,44,No,,1037.0,,1,3,medical
+790,50,Yes,,878.0,,1,4,
+791,36,No,,1120.0, sales ,11,4,marketing
+792,45,No,,374.0,,20,3,
+793,40,No,,1194.0,,2,4,
+794,35,No,travel_rarely,287.0,,1,4,
+795,29,No,travel_rarely,,,13,2,other
+796,34,No,,,,8,3,
+797,27,No,travel_rarely,591.0,,2,1,
+798,31,No,,670.0, research & development ,26,1,
+799,34,No,travel_rarely,1346.0,,38,2,
+800,28,Yes,travel_rarely,103.0, research & development ,24,3,life sciences
+801,32,No,travel_rarely,334.0,,5,2,
+802,38,No,,371.0, research & development ,2,3,life sciences
+803,24,No,,673.0,,11,2,
+804,34,Yes,,699.0,,6,1,
+805,32,Yes,travel_frequently,, research & development ,16,1,
+806,46,No,travel_rarely,705.0,,2,4,marketing
+807,44,No,,1459.0,,10,4,other
+808,50,Yes,travel_rarely,,,3,2,
+809,35,No,,890.0,,2,3,marketing
+810,28,Yes,,1434.0,,5,4,
+811,26,No,,1443.0,,22,3,
+812,35,No,travel_rarely,1142.0,,31,4,
+813,35,No,,664.0,,31,3,medical
+814,37,No,travel_rarely,397.0,,20,4,medical
+815,46,No,travel_rarely,,,38,2,medical
+816,34,No,travel_rarely,1153.0,,1,2,medical
+817,51,No,travel_rarely,432.0,,9,4,
+818,24,No,travel_rarely,1353.0, sales ,3,2,other
+819,44,No,,489.0,,23,3,
+820,37,Yes,travel_rarely,807.0,,6,4,human resources
+821,59,No,non-travel,1420.0,,2,4,human resources
+822,25,No,,1280.0,,7,1,
+823,43,No,,957.0,,26,3,medical
+824,50,No,travel_frequently,809.0,,12,3,
+825,31,Yes,travel_rarely,542.0,,20,3,
+826,36,No,,216.0, research & development ,6,2,medical
+827,51,Yes,travel_frequently,1150.0,,16,4,
+828,25,No,,, sales ,28,3,life sciences
+829,38,No,travel_rarely,364.0,,3,5,technical degree
+830,30,No,travel_rarely,201.0, research & development ,5,3,technical degree
+831,22,No,,1256.0,,36,1,medical
+832,27,No,non-travel,691.0, research & development ,9,3,medical
+833,28,No,,440.0, research & development ,21,3,medical
+834,27,No,,1157.0,,17,3,
+835,56,No,travel_rarely,713.0,,8,3,life sciences
+836,38,No,travel_rarely,,,9,2,
+837,31,No,travel_rarely,140.0,,12,1,medical
+838,34,No,travel_rarely,629.0,,27,2,medical
+839,50,No,,328.0, research & development ,1,3,
+840,53,No,,1084.0,,13,2,
+841,35,No,travel_frequently,,,24,3,medical
+842,27,No,travel_frequently,472.0,,1,1,
+843,40,No,,905.0,,38,2,
+844,22,No,,1136.0,,22,3,life sciences
+845,40,No,,1151.0,,10,5,life sciences
+846,46,No,,644.0,,1,4,
+847,30,Yes,,1005.0,,3,3,technical degree
+848,29,Yes,,992.0,,1,3,
+849,54,No,,1147.0,,3,3,
+850,33,No,travel_rarely,147.0, research & development ,4,4,
+851,52,No,travel_rarely,1323.0,,2,3,
+852,59,No,travel_rarely,818.0, human resources ,6,2,medical
+853,32,Yes,,515.0,,1,3,
+854,39,No,,1431.0,,24,4,medical
+855,32,No,non-travel,976.0,,26,4,marketing
+856,31,No,,1327.0,,3,4,medical
+857,33,No,travel_rarely,832.0,,5,4,life sciences
+858,45,No,,1199.0,,23,4,life sciences
+859,42,No,,916.0, research & development ,17,2,
+860,29,No,,1247.0,,19,2,marketing
+861,25,No,travel_rarely,685.0,,1,3,
+862,32,No,,128.0,,2,1,
+863,28,No,travel_rarely,1158.0,,9,3,
+864,21,No,travel_rarely,996.0,,3,2,
+865,37,No,non-travel,728.0,,1,4,medical
+866,38,No,travel_rarely,688.0,,23,4,life sciences
+867,26,Yes,travel_rarely,1449.0,,16,4,medical
+868,49,No,,636.0,,10,4,life sciences
+869,31,No,travel_frequently,444.0, sales ,5,3,
+870,37,No,travel_frequently,889.0,,9,3,medical
+871,31,No,travel_rarely,691.0, research & development ,11,4,
+872,31,No,travel_rarely,106.0,,2,3,human resources
+873,31,No,,, research & development ,2,4,
+874,52,Yes,,723.0,,17,4,medical
+875,28,Yes,,1157.0,,2,4,medical
+876,47,No,travel_rarely,1482.0,,5,5,
+877,29,No,,738.0,,9,5,other
+878,37,No,,1192.0,,5,2,medical
+879,23,No,,1309.0,,26,1,
+880,42,No,travel_rarely,544.0, human resources ,2,1,
+881,30,No,,641.0, sales ,25,2,
+882,21,Yes,,756.0,,31,1,
+883,57,No,travel_rarely,593.0,,1,4,medical
+884,21,No,,895.0,,9,2,
+885,31,No,travel_rarely,408.0,,9,4,life sciences
+886,29,No,,1283.0, research & development ,17,3,
+887,27,No,travel_rarely,1469.0,,1,2,
+888,49,No,travel_rarely,1261.0,,7,3,other
+889,36,No,travel_rarely,329.0,,2,3,
+890,34,Yes,non-travel,1362.0,,19,3,marketing
+891,24,No,,1371.0,,10,4,marketing
+892,42,No,,201.0,,1,4,
+893,54,No,,821.0,,5,2,medical
+894,34,No,,1381.0,,4,4,
+895,43,No,,313.0,,21,3,
+896,43,No,travel_rarely,1473.0,,8,4,other
+897,31,No,travel_rarely,329.0,,1,2,
+898,25,Yes,travel_rarely,688.0,,3,3,medical
+899,45,No,,192.0,,10,2,life sciences
+900,52,No,travel_rarely,1490.0,,4,2,life sciences
+901,34,Yes,travel_frequently,296.0,,6,2,
+902,26,No,travel_rarely,1349.0,,23,3,life sciences
+903,29,No,,986.0,,3,4,
+904,29,Yes,,408.0,,25,5,technical degree
+905,46,No,,1009.0,,2,3,life sciences
+906,46,No,,1125.0,,10,3,marketing
+907,30,No,travel_rarely,413.0, sales ,7,1,marketing
+908,34,Yes,travel_frequently,988.0, human resources ,23,3,
+909,42,No,,1474.0,,5,2,other
+910,22,Yes,,1368.0, research & development ,25,1,technical degree
+911,29,No,travel_rarely,232.0,,19,3,technical degree
+912,46,No,travel_frequently,1034.0, research & development ,18,1,medical
+913,32,Yes,,1474.0, sales ,11,4,other
+914,24,No,,,,24,3,medical
+915,35,No,travel_rarely,538.0,,25,2,
+916,42,No,,622.0,,2,4,life sciences
+917,48,No,travel_rarely,1236.0,,1,4,
+918,44,No,travel_rarely,1112.0,,1,4,
+919,34,No,,204.0, sales ,14,3,
+920,21,No,,1343.0,,22,1,technical degree
+921,44,No,travel_rarely,1315.0,,3,4,
+922,22,No,travel_rarely,,,6,1,medical
+923,26,No,travel_rarely,991.0,,6,3,
+924,36,No,,913.0,,9,2,medical
+925,27,No,,1115.0,,3,4,medical
+926,23,No,travel_rarely,885.0,,4,3,
+927,25,No,,810.0,,8,3,life sciences
+928,48,No,,817.0,,14,1,
+929,24,Yes,travel_rarely,693.0,,3,2,life sciences
+930,60,No,travel_rarely,1179.0,,16,4,
+931,50,No,,316.0,,8,4,marketing
+932,44,No,non-travel,381.0,,24,3,
+933,47,No,travel_frequently,217.0,,3,3,
+934,42,Yes,,933.0,,19,3,
+935,43,No,travel_frequently,775.0,,15,3,life sciences
+936,40,No,,804.0,,2,1,
+937,29,No,,1090.0, sales ,10,3,
+938,53,No,,346.0,,6,3,
+939,23,No,travel_rarely,310.0, research & development ,12,1,medical
+940,55,Yes,,725.0,,2,3,medical
+941,26,No,travel_frequently,575.0,,1,2,life sciences
+942,34,No,travel_rarely,182.0,,1,4,
+943,27,No,,829.0,,8,1,marketing
+944,35,No,travel_rarely,384.0,,8,4,
+945,30,No,travel_rarely,921.0,,18,3,
+946,34,No,,1111.0,,8,2,
+947,52,No,travel_rarely,1325.0, research & development ,25,4,life sciences
+948,33,Yes,travel_rarely,118.0,,16,3,marketing
+949,35,No,travel_rarely,1258.0, research & development ,20,4,
+950,28,Yes,,890.0,,2,4,
+951,36,No,travel_rarely,1041.0,,13,3,human resources
+952,34,No,travel_frequently,702.0, research & development ,16,4,
+953,34,No,,829.0,,3,2,
+954,44,No,travel_rarely,625.0,,4,3,
+955,32,No,,,,13,4,life sciences
+956,53,No,,661.0,,7,2,
+957,22,No,,,,1,2,life sciences
+958,44,No,travel_rarely,986.0,,8,4,life sciences
+959,35,Yes,travel_frequently,,,25,4,life sciences
+960,25,No,,583.0,,4,1,
+961,49,No,travel_rarely,1418.0,,1,3,technical degree
+962,24,No,non-travel,1269.0,,19,1,life sciences
+963,38,No,travel_rarely,395.0, sales ,9,3,marketing
+964,29,Yes,travel_rarely,341.0,,1,3,medical
+965,43,No,travel_frequently,,,1,3,life sciences
+966,28,No,travel_rarely,821.0,,5,4,medical
+967,20,Yes,travel_rarely,500.0,,2,3,
+968,47,No,,1454.0,,2,4,life sciences
+969,22,Yes,travel_rarely,617.0,,3,1,life sciences
+970,28,No,,995.0,,9,3,medical
+971,39,Yes,,1122.0, research & development ,6,3,medical
+972,33,No,travel_rarely,1198.0, research & development ,1,4,
+973,36,No,travel_rarely,188.0, research & development ,7,4,other
+974,35,No,travel_rarely,1219.0,,48,3,
+975,31,Yes,,335.0,,9,2,medical
+976,33,No,travel_rarely,461.0,,13,1,life sciences
+977,27,No,,1134.0,,24,4,
+978,30,Yes,travel_rarely,138.0,,22,3,
+979,24,No,,1206.0,,17,1,medical
+980,35,Yes,travel_rarely,622.0, research & development ,14,4,other
+981,30,Yes,,109.0,,5,3,
+982,48,No,travel_rarely,277.0, research & development ,6,3,
+983,41,No,travel_rarely,549.0,,7,2,medical
+984,27,No,,1055.0, research & development ,2,4,
+985,35,No,travel_rarely,802.0, research & development ,10,3,other
+986,26,Yes,non-travel,265.0,,29,2,medical
+987,33,No,non-travel,1038.0, sales ,8,1,life sciences
+988,26,Yes,,342.0,,2,3,life sciences
+989,38,No,travel_frequently,1186.0,,3,4,
+990,46,No,,430.0,,47,4,medical
+991,20,Yes,,769.0,,9,3,marketing
+992,30,No,,1176.0,,20,3,other
+993,27,No,non-travel,1277.0,,8,5,
+994,55,No,,1091.0,,2,1,
+995,33,No,travel_rarely,654.0,,5,3,life sciences
+996,28,No,,895.0,,15,2,life sciences
+997,34,No,,618.0,,3,1,life sciences
+998,33,Yes,,1017.0,,25,3,medical
+999,33,No,,970.0,,7,3,life sciences
+1000,21,No,,984.0,,1,1,
+1001,31,No,travel_frequently,793.0,,20,3,
+1002,35,No,,1182.0,,11,2,marketing
+1003,34,No,,1003.0,,2,2,
+1004,33,Yes,,603.0,,9,4,
+1005,31,Yes,,874.0, research & development ,15,3,medical
+1006,37,No,travel_rarely,367.0,,25,2,
+1007,27,No,travel_rarely,199.0,,6,3,
+1008,35,No,travel_frequently,,,4,4,other
+1009,56,No,,718.0,,4,4,
+1010,45,No,,1457.0, research & development ,7,3,medical
+1011,20,No,travel_rarely,805.0,,3,3,
+1012,50,No,travel_frequently,1421.0,,2,3,
+1013,46,No,,1450.0,,15,2,life sciences
+1014,32,No,,116.0,,13,3,other
+1015,35,No,,1212.0,,8,2,
+1016,29,No,,1010.0,,1,3,life sciences
+1017,21,Yes,travel_frequently,,,10,2,
+1018,34,No,travel_rarely,131.0,,2,3,marketing
+1019,28,No,,791.0,,1,4,medical
+1020,35,No,travel_rarely,735.0,,6,1,life sciences
+1021,28,No,travel_frequently,193.0,,2,3,life sciences
+1022,28,No,travel_rarely,640.0,,1,3,technical degree
+1023,25,No,,266.0, research & development ,1,3,medical
+1024,58,No,,848.0,,23,4,life sciences
+1025,39,Yes,,,,23,3,medical
+1026,30,No,travel_rarely,1138.0,,6,3,technical degree
+1027,50,No,,,,46,3,life sciences
+1028,41,No,,256.0,,10,2,medical
+1029,31,Yes,,,,1,3,
+1030,44,Yes,,935.0,,3,3,life sciences
+1031,40,No,non-travel,458.0, research & development ,16,2,
+1032,25,No,travel_rarely,882.0, research & development ,19,1,medical
+1033,40,No,travel_rarely,329.0,,1,4,life sciences
+1034,51,No,travel_rarely,,,11,2,technical degree
+1035,27,No,travel_frequently,793.0,,2,1,life sciences
+1036,35,Yes,,662.0,,18,4,marketing
+1037,38,No,,693.0,,7,3,
+1038,31,Yes,,,,22,4,
+1039,51,No,,541.0,,2,3,
+1040,41,No,,1200.0,,22,3,
+1041,32,No,,499.0,,2,1,marketing
+1042,25,No,travel_rarely,1372.0,,18,1,life sciences
+1043,27,No,,,,10,3,marketing
+1044,27,Yes,travel_rarely,,,22,4,life sciences
+1045,37,No,,1462.0,,11,3,medical
+1046,35,No,travel_frequently,200.0,,18,2,life sciences
+1047,25,No,,949.0,,1,3,
+1048,30,No,,,,7,4,marketing
+1049,31,No,,182.0, research & development ,8,5,life sciences
+1050,36,No,,329.0,,16,4,marketing
+1051,25,Yes,travel_rarely,383.0,,9,2,
+1052,56,No,,1255.0,,1,2,life sciences
+1053,41,No,,,,5,5,medical
+1054,31,No,travel_rarely,1398.0,,8,2,
+1055,31,Yes,travel_frequently,523.0, research & development ,2,3,life sciences
+1056,48,No,,1221.0, sales ,7,3,marketing
+1057,34,Yes,,1107.0,,9,4,
+1058,44,No,,981.0,,5,3,life sciences
+1059,49,No,travel_rarely,1495.0, research & development ,5,4,
+1060,44,No,,1467.0,,20,3,life sciences
+1061,28,Yes,,1496.0,,1,3,
+1062,44,No,travel_frequently,1193.0, research & development ,2,1,
+1063,55,No,travel_rarely,1229.0,,4,4,life sciences
+1064,28,No,travel_frequently,467.0,,7,3,life sciences
+1065,49,No,travel_rarely,271.0,,45,2,medical
+1066,29,No,travel_frequently,410.0,,2,1,life sciences
+1067,32,No,,495.0,,10,3,
+1068,31,Yes,travel_frequently,561.0,,3,3,life sciences
+1069,40,No,,1142.0,,43,2,life sciences
+1070,36,No,travel_rarely,1157.0,,2,4,life sciences
+1071,33,No,,1242.0,,8,4,life sciences
+1072,30,No,,1288.0, sales ,14,4,
+1073,38,Yes,travel_rarely,903.0,,2,3,medical
+1074,48,No,travel_rarely,1108.0, research & development ,15,4,
+1075,34,No,,1351.0, research & development ,1,4,
+1076,38,No,travel_rarely,437.0,,16,3,life sciences
+1077,35,No,travel_rarely,,,10,4,
+1078,23,No,,977.0,,10,3,
+1079,36,No,,1302.0,,6,4,
+1080,34,No,travel_frequently,653.0,,36,4,
+1081,22,No,non-travel,457.0,,26,2,other
+1082,32,No,,634.0,,5,4,
+1083,31,No,travel_frequently,715.0,,2,4,
+1084,36,No,travel_rarely,559.0,,12,4,life sciences
+1085,21,No,,546.0,,19,1,medical
+1086,47,No,,1176.0,,26,4,
+1087,39,No,,711.0,,4,3,medical
+1088,40,No,,448.0,,16,3,
+1089,48,No,travel_frequently,365.0,,4,5,
+1090,35,Yes,,763.0,,10,2,medical
+1091,27,No,travel_rarely,486.0, research & development ,8,3,medical
+1092,27,No,,591.0,,2,3,medical
+1093,40,Yes,travel_rarely,1329.0,,7,3,
+1094,29,No,,469.0,,10,3,
+1095,36,No,,711.0,,5,4,life sciences
+1096,49,No,travel_rarely,301.0,,22,4,other
+1097,20,No,travel_rarely,1141.0,,13,3,medical
+1098,36,No,non-travel,894.0, research & development ,1,4,
+1099,33,No,travel_rarely,392.0,,2,4,
+1100,49,No,,,,16,3,medical
+1101,47,No,travel_rarely,1225.0,,2,4,life sciences
+1102,20,No,travel_rarely,727.0,,9,1,
+1103,36,No,travel_rarely,1351.0,,26,4,
+1104,44,No,travel_rarely,528.0, human resources ,1,3,
+1105,55,No,,1441.0,,12,3,technical degree
+1106,23,Yes,,427.0,,7,3,life sciences
+1107,26,No,,390.0,,17,4,
+1108,32,No,travel_frequently,585.0,,10,3,
+1109,31,No,,741.0,,2,4,life sciences
+1110,41,No,non-travel,552.0, human resources ,4,3,human resources
+1111,24,No,travel_rarely,506.0,,29,1,medical
+1112,36,Yes,,1456.0,,13,5,marketing
+1113,23,No,,160.0,,4,1,
+1114,24,No,,897.0,,35,3,medical
+1115,30,Yes,travel_frequently,600.0,,42,3,
+1116,31,No,,1003.0,,5,3,
+1117,27,No,,1054.0,,48,3,
+1118,29,Yes,travel_rarely,428.0,,9,3,
+1119,29,No,,461.0,,1,3,
+1120,53,No,,661.0,,31,4,
+1121,34,No,travel_rarely,511.0,,3,2,
+1122,51,No,travel_rarely,942.0,,3,3,
+1123,37,No,travel_rarely,589.0, sales ,9,2,marketing
+1124,46,No,,849.0,,26,2,life sciences
+1125,43,No,non-travel,343.0, research & development ,9,3,
+1126,41,No,travel_rarely,,,35,3,
+1127,31,No,,1125.0,,7,4,
+1128,28,No,travel_rarely,1217.0,,1,3,medical
+1129,38,No,,723.0, sales ,2,4,
+1130,58,No,travel_frequently,1216.0, research & development ,15,4,life sciences
+1131,29,Yes,travel_rarely,350.0,,13,3,
+1132,47,No,travel_rarely,207.0,,9,4,life sciences
+1133,28,No,,280.0,,1,2,life sciences
+1134,32,Yes,travel_rarely,414.0, sales ,2,4,marketing
+1135,39,No,travel_rarely,,,19,4,
+1136,55,No,travel_rarely,836.0,,2,4,
+1137,29,No,,592.0,,7,3,life sciences
+1138,35,No,,219.0,,16,2,other
+1139,34,Yes,non-travel,967.0,,16,4,technical degree
+1140,56,Yes,travel_rarely,,,24,2,
+1141,36,No,,335.0,,17,2,marketing
+1142,31,No,,1079.0,,10,2,
+1143,34,No,,735.0,,3,1,
+1144,31,No,travel_rarely,471.0,,4,3,
+1145,45,No,travel_frequently,,,1,4,medical
+1146,39,No,,1251.0,,21,4,
+1147,38,No,travel_rarely,1206.0,,9,2,
+1148,31,No,,976.0,,3,2,
+1149,53,Yes,,1168.0,,24,4,life sciences
+1150,38,No,travel_frequently,1444.0, human resources ,1,4,other
+1151,54,No,,,,10,3,
+1152,23,No,,571.0,,12,2,
+1153,25,No,,977.0,,2,1,other
+1154,31,No,,1154.0,,2,2,life sciences
+1155,35,No,travel_rarely,1490.0,,11,4,medical
+1156,22,No,,581.0, research & development ,1,2,
+1157,32,No,travel_rarely,267.0,,29,4,
+1158,32,No,,234.0,,36,4,
+1159,21,No,travel_rarely,501.0, sales ,5,1,medical
+1160,36,No,,688.0,,13,2,life sciences
+1161,29,Yes,travel_rarely,1092.0,,38,4,
+1162,32,No,travel_rarely,529.0,,2,3,technical degree
+1163,40,No,travel_rarely,1322.0,,2,4,
+1164,35,No,travel_frequently,1199.0,,18,4,life sciences
+1165,50,Yes,travel_rarely,410.0, sales ,40,3,marketing
+1166,26,No,,1167.0,,5,3,other
+1167,36,No,travel_frequently,884.0,,23,2,medical
+1168,27,No,travel_rarely,155.0,,4,3,life sciences
+1169,33,No,,924.0,,2,3,medical
+1170,36,No,,852.0,,5,4,life sciences
+1171,31,No,,1082.0, research & development ,1,4,medical
+1172,22,No,travel_rarely,, research & development ,2,1,technical degree
+1173,27,No,,1450.0,,3,3,
+1174,33,No,travel_rarely,134.0,,2,3,life sciences
+1175,36,No,travel_frequently,635.0,,18,1,
+1176,37,No,,1017.0,,18,2,medical
+1177,32,No,,1311.0,,7,3,
+1178,51,No,travel_rarely,1302.0,,35,3,medical
+1179,49,No,,1091.0,,45,2,technical degree
+1180,35,No,,755.0,,9,4,
+1181,22,No,,253.0,,11,3,medical
+1182,33,No,,922.0,,1,5,
+1183,31,Yes,,1365.0, sales ,13,4,medical
+1184,45,Yes,,306.0,,26,4,
+1185,53,No,,970.0,,7,3,
+1186,34,No,travel_rarely,970.0,,8,2,
+1187,43,No,,,,14,2,life sciences
+1188,28,No,travel_rarely,1169.0,,8,2,medical
+1189,42,No,travel_frequently,1271.0, research & development ,2,1,
+1190,27,No,travel_rarely,618.0,,4,3,
+1191,40,No,,1469.0,,9,4,
+1192,37,Yes,,625.0,,1,4,life sciences
+1193,29,No,travel_frequently,1404.0,,18,3,technical degree
+1194,38,No,,1391.0, research & development ,10,1,
+1195,34,No,,216.0,,46,4,
+1196,34,No,travel_rarely,1333.0,,10,4,life sciences
+1197,50,No,travel_rarely,1464.0,,12,4,medical
+1198,26,Yes,,1330.0,,21,3,
+1199,28,No,travel_frequently,773.0, research & development ,6,3,life sciences
+1200,28,Yes,,1485.0,,12,1,
+1201,40,No,,902.0,,29,2,medical
+1202,19,No,travel_rarely,645.0,,47,2,
+1203,20,No,travel_rarely,654.0,,21,3,marketing
+1204,40,No,,107.0,,10,3,
+1205,19,Yes,,504.0,,10,3,
+1206,59,No,,326.0,,3,3,
+1207,30,No,travel_rarely,634.0, research & development ,17,4,medical
+1208,45,No,travel_rarely,1448.0,,29,3,
+1209,40,No,travel_rarely,896.0,,2,3,
+1210,30,No,,1358.0,,42,1,life sciences
+1211,24,No,,, research & development ,24,2,technical degree
+1212,32,No,,824.0,,5,2,life sciences
+1213,28,Yes,travel_rarely,329.0,,24,3,medical
+1214,49,No,,1313.0, sales ,11,4,
+1215,38,No,travel_frequently,594.0, research & development ,2,2,medical
+1216,46,No,travel_rarely,734.0,,2,4,
+1217,34,Yes,travel_frequently,234.0,,9,4,life sciences
+1218,39,No,,766.0,,20,3,life sciences
+1219,26,Yes,travel_rarely,920.0, human resources ,20,2,
+1220,54,No,travel_rarely,431.0,,7,4,medical
+1221,36,No,travel_frequently,1213.0,,2,1,
+1222,32,Yes,travel_frequently,238.0, research & development ,5,2,
+1223,32,No,,1146.0,,15,4,
+1224,28,Yes,,1404.0, research & development ,17,3,
+1225,33,No,,1313.0,,1,2,medical
+1226,37,Yes,travel_rarely,1373.0,,2,2,
+1227,59,No,travel_rarely,1324.0,,3,3,medical
+1228,30,No,travel_rarely,1358.0,,24,1,life sciences
+1229,22,No,,1123.0,,16,2,
+1230,21,No,travel_rarely,391.0,,15,2,
+1231,30,No,travel_rarely,125.0,,9,2,medical
+1232,39,Yes,travel_rarely,895.0,,18,3,technical degree
+1233,24,Yes,travel_rarely,813.0,,1,3,
+1234,35,No,,, research & development ,4,2,other
+1235,27,No,,1240.0,,2,4,life sciences
+1236,26,Yes,,1357.0,,25,3,life sciences
+1237,37,No,,, research & development ,24,2,life sciences
+1238,35,No,,1229.0,,46,1,
+1239,48,Yes,,626.0,,1,2,
+1240,35,No,non-travel,1097.0,,11,2,medical
+1241,55,No,travel_rarely,836.0,,8,3,
+1242,45,No,,1339.0,,7,3,life sciences
+1243,36,Yes,,318.0,,9,3,medical
+1244,36,No,travel_rarely,132.0, research & development ,6,3,life sciences
+1245,45,No,travel_rarely,193.0, research & development ,6,4,other
+1246,55,No,,111.0,,1,2,
+1247,23,No,,541.0,,2,1,technical degree
+1248,32,No,travel_rarely,827.0,,1,1,life sciences
+1249,20,Yes,,871.0, research & development ,6,3,life sciences
+1250,37,No,,1040.0,,2,2,life sciences
+1251,22,No,,, research & development ,15,3,
+1252,34,No,,1031.0,,24,4,life sciences
+1253,36,No,,922.0,,3,2,life sciences
+1254,19,Yes,travel_rarely,528.0, sales ,22,1,marketing
+1255,41,No,,,,9,4,life sciences
+1256,19,No,,,,18,1,
+1257,51,No,,1169.0,,7,4,
+1258,58,No,,1145.0,,9,3,
+1259,19,Yes,travel_frequently,602.0,,1,1,
+1260,19,Yes,travel_rarely,303.0,,2,3,life sciences
+1261,35,Yes,travel_rarely,556.0,,23,2,
+1262,38,No,travel_rarely,1261.0,,38,4,
+1263,38,Yes,,1180.0,,29,1,medical
+1264,41,No,,896.0, sales ,6,3,life sciences
+1265,59,No,travel_rarely,142.0,,3,3,life sciences
+1266,50,No,travel_rarely,854.0,,1,4,medical
+1267,41,No,travel_rarely,1411.0, research & development ,19,2,life sciences
+1268,45,No,,252.0,,1,3,
+1269,37,Yes,,504.0,,10,3,medical
+1270,51,No,,833.0,,38,3,
+1271,28,Yes,travel_rarely,529.0,,2,4,life sciences
+1272,29,No,travel_rarely,1210.0,,2,3,medical
+1273,31,No,travel_rarely,1463.0, research & development ,23,3,medical
+1274,38,No,travel_rarely,322.0,,7,2,medical
+1275,44,Yes,travel_frequently,920.0,,12,3,life sciences
+1276,36,No,,506.0,,3,3,technical degree
+1277,18,Yes,,, research & development ,3,3,
+1278,36,No,,566.0,,18,4,life sciences
+1279,18,No,,812.0,,10,3,
+1280,39,Yes,travel_rarely,1162.0,,3,2,
+1281,43,No,travel_rarely,1001.0, research & development ,15,3,
+1282,47,No,travel_frequently,1309.0,,4,1,medical
+1283,42,No,travel_rarely,810.0,,23,5,
+1284,32,No,,1062.0,,2,3,
+1285,48,No,travel_rarely,530.0,,29,1,medical
+1286,42,No,travel_rarely,1332.0, research & development ,2,4,
+1287,36,No,non-travel,845.0,,1,5,medical
+1288,33,Yes,travel_rarely,350.0,,5,3,marketing
+1289,46,No,,1144.0, research & development ,7,4,medical
+1290,21,Yes,travel_rarely,156.0, sales ,12,3,life sciences
+1291,30,No,,202.0,,2,1,technical degree
+1292,30,Yes,travel_frequently,464.0,,4,3,
+1293,32,No,travel_rarely,1305.0,,10,4,
+1294,40,No,travel_rarely,555.0,,2,3,
+1295,28,No,travel_rarely,1300.0,,17,2,
+1296,38,No,travel_frequently,1490.0,,2,2,
+1297,19,Yes,,489.0,,2,2,technical degree
+1298,57,No,travel_rarely,210.0,,29,3,
+1299,47,No,travel_rarely,983.0,,2,2,medical
+1300,54,No,travel_rarely,548.0,,8,4,life sciences
+1301,31,Yes,travel_frequently,534.0,,42,3,
+1302,18,Yes,travel_frequently,1306.0,,5,3,marketing
+1303,40,No,,1094.0,,28,3,other
+1304,26,No,,775.0,,29,2,
+1305,26,Yes,travel_rarely,471.0, research & development ,24,3,
+1306,38,No,,1495.0,,10,3,
+1307,24,No,,823.0,,17,2,other
+1308,30,Yes,travel_frequently,448.0,,12,4,
+1309,37,No,travel_rarely,558.0,,2,3,marketing
+1310,20,No,travel_rarely,959.0, research & development ,1,3,life sciences
+1311,43,No,,782.0,,14,4,other
+1312,38,No,,362.0,,27,1,life sciences
+1313,33,No,,1216.0, sales ,8,4,marketing
+1314,30,No,,160.0,,3,3,
+1315,29,No,,, sales ,44,2,medical
+1316,20,Yes,,1362.0,,10,1,medical
+1317,35,No,non-travel,727.0,,20,3,
+1318,37,No,,1225.0,,10,2,life sciences
+1319,38,No,,168.0,,1,3,
+1320,29,No,,1396.0,,10,3,
+1321,35,No,,1225.0,,2,4,
+1322,38,No,travel_rarely,268.0,,2,5,medical
+1323,34,No,travel_rarely,167.0,,8,5,life sciences
+1324,23,Yes,,1243.0,,6,3,life sciences
+1325,24,No,,1092.0,,9,3,life sciences
+1326,29,Yes,travel_rarely,805.0,,1,2,life sciences
+1327,40,No,travel_frequently,720.0,,16,4,medical
+1328,30,No,travel_rarely,, research & development ,2,3,
+1329,45,No,,252.0,,2,3,
+1330,27,No,,443.0,,3,3,medical
+1331,37,No,,342.0,,16,4,marketing
+1332,32,No,,300.0,,1,3,life sciences
+1333,53,No,travel_rarely,868.0,,8,3,marketing
+1334,37,No,,1252.0,,19,2,
+1335,32,Yes,travel_rarely,374.0,,25,4,
+1336,58,Yes,travel_frequently,781.0,,2,1,
+1337,43,No,travel_rarely,177.0,,8,3,
+1338,21,Yes,travel_rarely,1427.0, research & development ,18,1,other
+1339,34,No,,546.0,,48,3,life sciences
+1340,58,No,,1272.0,,5,3,
+1341,48,No,,,,20,4,medical
+1342,32,No,non-travel,1184.0,,1,3,life sciences
+1343,25,Yes,,867.0,,19,2,marketing
+1344,40,No,,658.0, sales ,10,4,marketing
+1345,19,Yes,,419.0,,21,3,other
+1346,20,Yes,travel_rarely,129.0, research & development ,4,3,technical degree
+1347,33,No,travel_rarely,1069.0,,1,3,
+1348,58,Yes,travel_rarely,289.0,,2,3,
+1349,40,Yes,non-travel,1479.0,,24,3,
+1350,29,Yes,travel_rarely,906.0,,10,3,
+1351,47,No,travel_rarely,955.0,,18,2,life sciences
+1352,18,No,,287.0,,5,2,
+1353,20,Yes,,1097.0,,16,3,medical
+1354,42,No,,265.0,,5,2,
+1355,50,No,travel_rarely,804.0, research & development ,9,3,
+1356,37,Yes,travel_rarely,1141.0,,11,2,medical
+1357,38,No,,,,3,4,life sciences
+1358,36,Yes,,660.0,,15,3,
+1359,28,No,travel_rarely,1144.0, sales ,10,1,medical
+1360,43,No,,415.0,,25,3,
+1361,21,Yes,travel_rarely,1334.0, research & development ,10,3,
+1362,51,Yes,travel_rarely,1323.0,,4,4,
+1363,37,No,,309.0, sales ,10,4,
+1364,28,Yes,,1009.0, research & development ,1,3,medical
+1365,50,Yes,,,,1,4,
+1366,34,No,,697.0,,3,4,
+1367,38,No,travel_rarely,130.0,,2,2,marketing
+1368,42,No,,188.0,,29,3,
+1369,18,Yes,,247.0,,8,1,
+1370,41,No,,167.0,,12,4,
+1371,35,No,travel_rarely,982.0, research & development ,1,4,medical
+1372,32,No,,862.0, sales ,2,1,
+1373,22,Yes,,1256.0,,3,4,life sciences
+1374,44,No,non-travel,111.0,,26,3,
+1375,41,Yes,non-travel,906.0,,5,2,life sciences
+1376,40,No,travel_frequently,1184.0,,2,4,
+1377,24,Yes,,984.0,,17,2,life sciences
+1378,42,No,travel_frequently,458.0,,26,5,medical
+1379,49,No,,1098.0, research & development ,4,2,medical
+1380,48,No,travel_rarely,969.0,,2,2,technical degree
+1381,29,No,travel_rarely,1329.0, research & development ,7,3,
+1382,48,No,,715.0, research & development ,1,3,life sciences
+1383,34,No,,1320.0,,20,3,technical degree
+1384,19,No,,265.0,,25,3,life sciences
+1385,23,No,,373.0,,1,2,
+1386,25,Yes,travel_frequently,599.0,,32,1,
+1387,42,No,,603.0,,34,4,medical
+1388,51,No,travel_frequently,968.0,,6,2,medical
+1389,45,No,travel_frequently,364.0,,25,3,medical
+1390,27,No,,1291.0,,11,3,medical
+1391,18,No,non-travel,1124.0,,1,3,
+1392,31,Yes,travel_frequently,703.0,,2,3,
+1393,31,Yes,travel_frequently,,,1,4,life sciences
+1394,31,Yes,travel_rarely,202.0,,8,3,life sciences
+1395,27,No,travel_rarely,1377.0,,11,1,life sciences
+1396,39,Yes,,592.0,,2,3,
+1397,44,No,travel_frequently,383.0,,1,5,marketing
+1398,30,No,,990.0, research & development ,25,3,
+1399,35,No,travel_rarely,660.0,,26,1,life sciences
+1400,24,Yes,travel_frequently,381.0,,9,3,
+1401,24,No,,830.0,,13,2,
+1402,28,Yes,,289.0,,2,2,medical
+1403,28,No,travel_rarely,1423.0,,1,3,life sciences
+1404,33,No,,516.0,,8,5,
+1405,39,No,travel_rarely,1089.0,,6,3,
+1406,42,No,,1210.0,,2,3,medical
+1407,29,No,travel_rarely,598.0,,9,3,
+1408,35,No,travel_rarely,992.0,,1,3,
+1409,35,Yes,travel_rarely,104.0,,14,3,
+1410,34,No,,479.0,,13,4,medical
+1411,26,No,travel_rarely,474.0,,3,3,
+1412,36,No,travel_rarely,884.0,,1,4,life sciences
+1413,50,No,,264.0,,24,3,marketing
+1414,42,No,travel_rarely,1059.0,,9,2,
+1415,35,No,,1349.0,,7,2,life sciences
+1416,46,No,travel_rarely,563.0,,1,4,life sciences
+1417,18,Yes,travel_frequently,544.0, sales ,3,2,medical
+1418,29,No,,991.0,,5,3,
+1419,31,No,,1112.0,,5,4,life sciences
+1420,41,No,travel_rarely,1206.0,,23,2,
+1421,38,No,travel_rarely,1495.0,,4,2,
+1422,32,Yes,travel_rarely,1259.0,,2,4,life sciences
+1423,60,No,,,,1,4,
+1424,24,Yes,,240.0,,22,1,
+1425,40,No,travel_rarely,369.0,,8,2,life sciences
+1426,30,No,travel_rarely,793.0,,21,1,
+1427,47,No,non-travel,543.0,,2,4,marketing
+1428,32,Yes,travel_rarely,964.0, sales ,1,2,
+1429,45,No,travel_rarely,176.0,,41,3,life sciences
+1430,34,No,,181.0,,2,4,
+1431,33,Yes,,211.0,,16,3,
+1432,31,Yes,travel_rarely,1079.0,,16,4,
+1433,29,No,travel_rarely,590.0,,4,3,technical degree
+1434,30,No,,305.0,,16,3,
+1435,38,No,travel_rarely,833.0,,18,3,medical
+1436,43,Yes,,807.0,,17,3,technical degree
+1437,55,No,travel_rarely,478.0,,44,3,
+1438,21,Yes,,337.0,,7,1,marketing
+1439,22,Yes,travel_rarely,1294.0,,45,1,medical
+1440,37,No,travel_rarely,1239.0,,8,2,other
+1441,42,No,travel_rarely,1128.0,,13,3,
+1442,18,No,,1431.0,,14,3,
+1443,31,Yes,travel_rarely,359.0,,18,5,human resources
+1444,36,No,travel_rarely,430.0,,2,4,
+1445,32,No,travel_frequently,1318.0,,10,4,marketing
+1446,29,No,,726.0,,29,1,life sciences
+1447,42,No,travel_rarely,1142.0,,8,3,
+1448,29,No,travel_rarely,352.0,,6,1,
+1449,29,Yes,,,,24,2,
+1450,28,No,travel_rarely,1172.0, sales ,3,3,medical
+1451,30,Yes,,945.0,,9,3,
+1452,22,Yes,travel_rarely,391.0, research & development ,7,1,life sciences
+1453,26,No,,482.0,,1,2,life sciences
+1454,44,No,travel_rarely,170.0,,1,4,
+1455,29,Yes,travel_frequently,746.0, sales ,24,3,technical degree
+1456,28,Yes,travel_rarely,1475.0,,13,2,marketing
+1457,56,No,travel_rarely,1443.0,,11,5,
+1458,39,No,travel_rarely,867.0,,9,2,
+1459,58,No,,605.0,,21,3,
+1460,42,No,travel_rarely,419.0, sales ,12,4,marketing
+1461,27,Yes,,1337.0,,22,3,
+1462,38,No,travel_rarely,1404.0,,1,3,
+1463,32,No,,1373.0,,5,4,life sciences
+1464,31,No,,1276.0,,2,1,medical
+1465,25,No,travel_rarely,309.0,,2,3,
+1466,40,No,,543.0, research & development ,44,4,
+1467,39,No,non-travel,105.0,,9,3,
+1468,23,Yes,,638.0,,9,3,
+1469,35,No,travel_rarely,1146.0,,26,4,life sciences
+1470,34,No,travel_rarely,1440.0,,7,2,technical degree
+1471,28,No,non-travel,1103.0,,16,3,medical
+1472,29,No,,136.0,,1,3,life sciences
+1473,58,Yes,travel_rarely,147.0,,23,4,medical
+1474,38,No,,119.0,,3,3,life sciences
+1475,29,No,travel_frequently,1413.0,,1,1,
+1476,55,No,travel_rarely,452.0,,1,3,medical
+1477,41,No,,334.0,,2,4,
+1478,39,No,travel_rarely,1132.0, research & development ,1,3,
+1479,38,No,,,,15,2,life sciences
+1480,43,No,,982.0,,12,3,
+1481,31,No,,480.0,,7,2,
+1482,50,No,travel_rarely,1099.0, research & development ,29,4,life sciences
+1483,33,No,non-travel,1038.0, sales ,8,1,life sciences
+1484,26,Yes,,342.0,,2,3,life sciences
+1485,38,No,travel_frequently,1186.0,,3,4,
+1486,46,No,,430.0,,1,4,medical
+1487,21,No,,984.0,,25,1,
+1488,31,No,travel_frequently,793.0,,20,3,
+1489,35,No,,1182.0,,11,2,marketing
+1490,34,No,,1003.0,,2,2,
+1491,33,Yes,,603.0,,9,4,
+1492,31,Yes,,874.0, research & development ,15,3,medical
+1493,37,No,travel_rarely,367.0,,25,2,
+1494,27,No,travel_rarely,199.0,,6,3,
+1495,35,No,travel_frequently,,,4,4,other
+1496,56,No,,718.0,,4,4,
+1497,45,No,,1457.0, research & development ,7,3,medical
+1498,43,No,travel_rarely,244.0,,2,3,life sciences
+1499,31,No,travel_rarely,196.0,,29,4,marketing
+1500,35,Yes,,303.0,,27,3,
+1501,35,No,non-travel,1180.0, research & development ,2,2,medical
+1502,30,No,,1092.0,,47,3,medical
+1503,46,Yes,travel_rarely,261.0,,21,2,medical
+1504,45,No,non-travel,589.0,,48,4,
+1505,43,No,travel_frequently,1422.0,,2,4,life sciences
+1506,46,Yes,,,,10,3,life sciences
+1507,40,No,travel_rarely,1137.0, research & development ,1,4,
+1508,27,No,travel_rarely,511.0, sales ,2,2,
+1509,42,No,,1396.0,,6,3,medical
+1510,26,No,travel_frequently,1096.0,,6,3,other
+1511,28,No,travel_frequently,,,1,2,life sciences
+1512,31,No,travel_rarely,691.0, research & development ,5,4,
+1513,31,No,travel_rarely,106.0,,2,3,human resources
+1514,31,No,,, research & development ,2,4,
+1515,52,Yes,,723.0,,8,4,medical
+1516,28,Yes,,1157.0,,2,4,medical
+1517,47,No,travel_rarely,1482.0,,5,5,
+1518,29,No,,738.0,,9,5,other
+1519,37,No,,1192.0,,5,2,medical
+1520,23,No,,1309.0,,22,1,
+1521,42,No,travel_rarely,544.0, human resources ,2,1,
+1522,30,No,,641.0, sales ,28,2,
+1523,21,Yes,,756.0,,1,1,
+1524,57,No,travel_rarely,593.0,,1,4,medical
+1525,21,No,,895.0,,9,2,
+1526,31,No,travel_rarely,408.0,,9,4,life sciences
+1527,29,No,,1283.0, research & development ,23,3,
+1528,27,No,travel_rarely,1469.0,,1,2,
+1529,49,No,travel_rarely,1261.0,,7,3,other
+1530,36,No,travel_rarely,329.0,,2,3,
+1531,34,Yes,non-travel,1362.0,,37,3,marketing
+1532,24,No,,1371.0,,32,4,marketing
+1533,42,No,,201.0,,1,4,
+1534,54,No,,821.0,,5,2,medical
+1535,34,No,,1381.0,,4,4,
+1536,43,No,,313.0,,21,3,
+1537,43,No,travel_rarely,1473.0,,8,4,other
+1538,31,No,travel_rarely,329.0,,1,2,
+1539,25,Yes,travel_rarely,688.0,,3,3,medical
+1540,45,No,,192.0,,10,2,life sciences
+1541,45,No,travel_rarely,1385.0,,33,2,medical
+1542,47,Yes,non-travel,666.0,,29,4,life sciences
+1543,35,No,,1315.0,,38,3,life sciences
+1544,29,No,travel_frequently,442.0,,2,2,
+1545,55,No,travel_rarely,147.0, research & development ,17,2,technical degree
+1546,26,Yes,travel_rarely,950.0,,4,4,
+1547,31,No,travel_rarely,218.0,,7,3,technical degree
+1548,43,No,travel_frequently,,,10,4,life sciences
+1549,31,No,travel_rarely,691.0,,7,3,marketing
+1550,32,No,,1018.0,,2,4,medical
+1551,33,No,,,,10,3,
+1552,43,No,travel_frequently,559.0, research & development ,30,4,life sciences
+1553,29,Yes,travel_rarely,318.0,,8,4,
+1554,27,No,,1130.0, sales ,12,4,
+1555,29,No,travel_rarely,144.0,,10,1,
+1556,37,No,,1319.0,,6,3,medical
+1557,26,No,travel_rarely,933.0,,1,3,
+1558,40,No,travel_rarely,1171.0,,10,4,life sciences
+1559,41,Yes,,143.0,,4,3,
+1560,51,No,travel_rarely,1178.0,,31,2,
+1561,37,No,,1107.0,,14,3,
+1562,56,No,,906.0,,6,3,life sciences
+1563,41,No,travel_rarely,645.0, sales ,1,3,marketing
+1564,46,No,,1485.0,,18,3,medical
+1565,30,No,non-travel,1116.0,,2,3,
+1566,35,No,travel_rarely,1276.0,,16,3,life sciences
+1567,48,No,travel_rarely,163.0,,2,5,
+1568,45,No,travel_rarely,561.0,,2,3,other
+1569,26,Yes,travel_frequently,426.0,,17,4,life sciences
+1570,41,No,,509.0,,2,4,other
+1571,34,No,,258.0,,21,4,
+1572,31,No,travel_rarely,525.0,,29,4,medical
+1573,43,No,travel_frequently,,,9,5,
+1574,53,No,,238.0, sales ,1,1,
+1575,37,No,travel_rarely,482.0,,3,3,other
+1576,54,No,,397.0,,24,4,
+1577,38,No,travel_rarely,243.0, sales ,7,4,marketing
+1578,29,No,,806.0, research & development ,1,4,life sciences
+1579,34,No,,1442.0,,9,3,medical
+1580,39,No,,408.0,,2,4,technical degree
+1581,32,No,,929.0,,10,3,marketing
+1582,38,No,travel_rarely,827.0,,1,4,life sciences
+1583,27,No,travel_rarely,,,1,2,life sciences
+1584,32,No,travel_rarely,1018.0,,3,2,life sciences
+1585,47,No,,703.0,,14,4,marketing
+1586,27,No,travel_frequently,294.0,,10,2,
+1587,41,No,,314.0,,1,3,
+1588,28,Yes,,654.0, research & development ,1,2,
+1589,36,No,,427.0, research & development ,8,3,
+1590,30,No,,501.0,,35,5,marketing
+1591,56,No,travel_rarely,,,9,3,
+1592,45,No,travel_rarely,954.0,,2,2,
+1593,36,No,non-travel,1434.0,,8,4,
+1594,29,No,,657.0,,27,3,medical
+1595,38,No,,240.0,,2,4,life sciences
+1596,40,No,,791.0,,2,2,medical
+1597,42,No,travel_frequently,570.0,,8,3,
+1598,36,No,travel_rarely,676.0,,1,3,other
+1599,29,No,travel_rarely,,,23,2,
+1600,55,Yes,,436.0,,2,1,medical
+1601,28,No,,760.0, sales ,43,4,
+1602,26,Yes,,,,5,2,medical
+1603,44,No,,661.0,,9,2,
+1604,41,Yes,,1085.0, research & development ,2,4,life sciences
+1605,31,No,travel_rarely,154.0,,7,4,
+1606,26,No,travel_frequently,1283.0, sales ,1,3,medical
+1607,31,No,,616.0,,12,3,medical
+1608,32,No,,498.0,,3,4,medical
+1609,36,Yes,travel_rarely,530.0,,3,1,life sciences
+1610,45,No,non-travel,805.0,,4,2,
+1611,39,No,travel_rarely,903.0,,13,5,
+1612,36,No,non-travel,1229.0,,8,4,technical degree
+1613,46,No,,566.0,,7,2,medical
