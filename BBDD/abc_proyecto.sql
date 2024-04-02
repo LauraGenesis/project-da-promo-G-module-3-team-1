@@ -4,8 +4,8 @@ USE abc_proyecto;
 
 
 -- Crear la tabla 'detalles_personales'
-CREATE TABLE Empleados (
-  id_empleado INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE Employee (
+  employee_id INT AUTO_INCREMENT PRIMARY KEY,
   attrition VARCHAR(45),
   age INT,
   datebirth INT, 
@@ -17,31 +17,31 @@ CREATE TABLE Empleados (
   educationfield VARCHAR(250) 
  );
 
-CREATE TABLE Salario (
+CREATE TABLE Salary (
   id_salary INT AUTO_INCREMENT PRIMARY KEY,
+  employee_id INT,
   hourlyrate FLOAT,
   dailyrate FLOAT,
   monthlyrate FLOAT,
   percentsalaryhike INT,
-  id_empleado INT,
-  FOREIGN KEY (id_empleado) REFERENCES empleados(id_empleado) 
+  FOREIGN KEY (employee_id) REFERENCES Employee(employee_id) 
 );
 
-CREATE TABLE Satisfaccion (
-  id_satisfaccion INT AUTO_INCREMENT PRIMARY KEY,
-  id_empleado INT,
+CREATE TABLE Satisfaction(
+  id_satisfaction INT AUTO_INCREMENT PRIMARY KEY,
+  employee_id INT,
   environmentsatisfaction FLOAT,
   jobinvolvement INT, 
   jobsatisfaction INT, 
   relationshipsatisfaction INT, 
   worklifebalance FLOAT,  
-  FOREIGN KEY (id_empleado) REFERENCES empleados(id_empleado) 
+  FOREIGN KEY (employee_id) REFERENCES Employee(employee_id) 
 );
 
 -- Crear la tabla 'condiciones'
-CREATE TABLE Trabajo(
-  id_trabajo INT AUTO_INCREMENT PRIMARY KEY,
-  id_empleado INT,
+CREATE TABLE Job(
+  id_job INT AUTO_INCREMENT PRIMARY KEY,
+  employee_id INT,
   businesstravel VARCHAR(45), 
   joblevel INT, 
   jobrole VARCHAR(45), 
@@ -53,7 +53,7 @@ CREATE TABLE Trabajo(
   yearssincelastpromotion INT, 
   yearswithcurrmanager INT, 
   remotework VARCHAR(45), 
-  FOREIGN KEY (id_empleado) REFERENCES empleados(id_empleado) 
+  FOREIGN KEY (employee_id) REFERENCES Employee (employee_id) 
 );
 
 
