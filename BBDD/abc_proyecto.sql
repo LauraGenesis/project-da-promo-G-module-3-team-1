@@ -5,14 +5,13 @@ USE abc_proyecto;
 
 -- Crear la tabla 'detalles_personales'
 CREATE TABLE Employee (
-  employee_id INT AUTO_INCREMENT PRIMARY KEY,
+  employee_id INT PRIMARY KEY,
   attrition VARCHAR(45),
   age INT,
   datebirth INT, 
   gender VARCHAR(45), 
   maritalstatus VARCHAR(45), 
   distancefromhome FLOAT, 
-  totalworkingyears FLOAT, 
   education INT,  
   educationfield VARCHAR(250) 
  );
