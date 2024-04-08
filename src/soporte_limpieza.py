@@ -8,6 +8,7 @@ import random
 import scipy.stats as stats
 from scipy.stats import shapiro
 from scipy.stats import mannwhitneyu
+import re
 
 # -----------------------------------------------------------------------
 pd.set_option('display.max_columns', None) 
@@ -523,3 +524,8 @@ def data_exploring(csv):
     tipo_dato = csv.dtypes.reset_index()
     print(f"Los datos son de tipo:")
     display(tipo_dato)
+
+
+def limpiar_valor(dataframe,col):
+    dataframe[col] = dataframe[col].astype(str).apply(lambda x: re.sub(r'\D', '', x)[0] if re.search(r'\d', x) else x)
+    return None

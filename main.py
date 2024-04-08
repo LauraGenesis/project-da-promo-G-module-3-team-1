@@ -13,6 +13,7 @@ sp.minusculas(data)
 
 #Limpiamos los valores para mayor homogeneidad:
 sp.limpiar_valores(data)
+sp.limpiar_valor(data, "Environmentsatisfaction")
 
 #Exploramos si hay duplicados en el DF:
 sp.explorar_duplicados(data)
