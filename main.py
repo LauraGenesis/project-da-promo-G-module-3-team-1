@@ -68,7 +68,7 @@ data.loc[data["Employee_id"].duplicated(),'Employee_id'] = 0
 conjunto = set(data['Employee_id'].tolist())
 data = data.apply(sp.rellenar_id, conjunto=conjunto, axis=1)
 print(f"En la columna Employee_id tenemos {data['Employee_id'].nunique()} valores únicos y {data['Employee_id'].isna().sum()} valores nulos.")
-
+#%%
 #Volvemos a comprobar si hay nulos o duplicados:
 sp.explorar_duplicados(data)
 sp.explorar_nulos(data)
