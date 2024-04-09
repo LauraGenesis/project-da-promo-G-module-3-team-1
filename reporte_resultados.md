@@ -111,7 +111,7 @@ H1: Los empleados con más distancia al trabajo no continuan en la empresa.
 ![alt text](image-17.png)
 
 
-La distancia al trabajo es un factor importante en la continuidad. aquellos empleados que vivían más lejos del trabajo ya no forman parte de la plantilla.
+La distancia al trabajo  no es un factor importante en la continuidad, como vemos en el gráfico los empleados que continuan en la empresa viven más lejos y están mas satisfechos que aquellos que no continuan en la empresa.
 
 8. H0: No existe relación entre la continuidad en la empresa y las horas extra./
 H1: Los empleados que hacen horas extras no continuan en la empresa
